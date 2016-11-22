@@ -1,5 +1,7 @@
 # jsxgettext [![Build Status](https://travis-ci.org/zaach/jsxgettext.png)](https://travis-ci.org/zaach/jsxgettext) [![NPM version](https://badge.fury.io/js/jsxgettext.png)](http://badge.fury.io/js/jsxgettext)
 
+> This is a custom fork of https://github.com/zaach/jsxgettext
+
 A node module with a CLI that extracts gettext strings from JavaScript, EJS, Jade, Jinja, Swig and Handlebars files. Uses a real parser, [acorn](https://github.com/marijnh/acorn), for JavaScript files and recognizes the following uses:
 
 ```javascript
@@ -38,9 +40,9 @@ Or from source:
 
 
     Usage: jsxgettext [options] [file ...]
-  
+
     Options:
-  
+
       -h, --help                      output usage information
       -V, --version                   output the version number
       -o, --output <file>             write output to specified <file>
