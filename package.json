@@ -24,7 +24,7 @@
     "Marcus (https://github.com/mphasize)"
   ],
   "name": "jsxgettext-andris",
-  "version": "0.9.0-patch.0",
+  "version": "0.9.0-patch.1",
   "license": "MPL-2.0",
   "description": "Extracts gettext strings from JavaScript, EJS, Jade, Jinja and Handlebars files. A fork of https://github.com/zaach/jsxgettext",
   "keywords": [
